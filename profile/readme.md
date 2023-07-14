@@ -1,5 +1,5 @@
 <p align=center>
-<img style="width: 400px" src="https://github.com/SA-EME/.github/assets/img/evian.png" />
+<img style="width: 400px" src="https://github.com/SA-EME/.github/blob/main/assets/img/evian.png" />
 </p>
 
 # Société Anonyme des Eaux Minérales d'Evian
